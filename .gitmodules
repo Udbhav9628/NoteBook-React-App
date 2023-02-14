@@ -1,0 +1,6 @@
+[submodule "NoteBook"]
+	path = NoteBook
+	url = https://github.com/Udbhav9628/NoteBook.git
+[submodule "NoteBook-Server"]
+	path = NoteBook-Server
+	url = https://github.com/Udbhav9628/NoteBook-Server.git
